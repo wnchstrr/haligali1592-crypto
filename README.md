@@ -1,9 +1,9 @@
-## 🌑 [oreshnik-creator] | Developer
+## 🌑 [wnchstrr] | Developer
 
 ```python
 class Developer:
     def __init__(self):
-        self.name = "[oreshnik-creator]"
+        self.name = "[wnchstrr]"
         self.role = "Explorer"
         self.language = ["Russian", "English"]
         self.tech_stack = ["[пока не обнаружены]"]
