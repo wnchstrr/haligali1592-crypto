@@ -9,7 +9,7 @@ class Developer:
         self.tech_stack = ["[пока не обнаружены]"]
 
     def say_hi(self):
-        print("Hello, World!")
+        print("Hello, GitHub!")
 
 me = Developer()
 me.say_hi()
