@@ -4,7 +4,7 @@
 
 ---
 
-## About
+## About me
 
 ```python
 class Developer:
