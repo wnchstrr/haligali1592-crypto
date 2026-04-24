@@ -53,9 +53,7 @@ me.get_info()
 ## Contact
 
 [![Telegram](https://img.shields.io/badge/@iiinnss-1a1a1a?style=flat-square&logo=telegram&logoColor=00D4AA)](https://t.me/iiinnss)
-[![Email](https://img.shields.io/badge/isergeeva_@outlook.com-1a1a1a?style=flat-square&logo=microsoft-outlook&logoColor=00D4AA)](mailto:isergeeva_@outlook.com)
-
----
+[![Email](https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:isergeeva_@outlook.com)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wnchstrr&color=00d4aa&style=flat-square&label=views"/>
